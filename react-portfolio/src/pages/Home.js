@@ -10,7 +10,7 @@ function Home() {
       <div className="about">
         <h2> Hi, My Name is Manu</h2>
         <div className="prompt">
-          <p>A Full Stack Engineer with a passion for MAchine Learning and AI.</p>
+          <p>A Full Stack Engineer with a passion for Machine Learning and AI.</p>
           <LinkedInIcon />
           <EmailIcon />
           <GithubIcon />
